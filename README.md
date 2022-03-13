@@ -3,7 +3,7 @@
 Visual-inertial simultaneous localization and mapping (SLAM) is implemented to localize the vehicle and perform landmark mapping of the environment using the extended Kalman filter (EKF) given that the measurements from the vehicle's inertial measurement unit (IMU) and the stereo camera 
 
 ## IMU Localization via the EKF Prediction Results:
-![IMU_Localization_via_EKF_Prediction_Data_03.png](".Results/IMU_Localization_via_EKF_Prediction_Data_03.png")
+![Data 03.npz](.Results/IMU_Localization_via_EKF_Prediction_Data_03.png)
 ![Data 10.npz](.Results/IMU_Localization_via_EKF_Prediction_Data_10.png)
 
 ## Landmark Mapping via the EKF Update Results:
