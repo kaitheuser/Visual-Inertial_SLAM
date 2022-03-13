@@ -7,12 +7,12 @@ Visual-inertial simultaneous localization and mapping (SLAM) is implemented to l
 ![Data 10](./Results/IMU_Localization_via_EKF_Prediction_Data_10.png)
 
 ## Landmark Mapping via the EKF Update Results:
-![Data 03.npz](.Results/Landmark_Mapping_via_EKF_Update_Data_03.png)
-![Data 10.npz](.Results/Landmark_Mapping_via_EKF_Update_Data_10.png)
+![Data 03](./Results/Landmark_Mapping_via_EKF_Update_Data_03.png)
+![Data 10](./Results/Landmark_Mapping_via_EKF_Update_Data_10.png)
 
 ## Visual-Inertial SLAM Results:
-![Data 03.npz](.Results/Visual_Inertial_SLAM_Data_03.png)
-![Data 10.npz](.Results/Visual_Inertial_SLAM_Data_10.png)
+![Data 03](./Results/Visual_Inertial_SLAM_Data_03.png)
+![Data 10](./Results/Visual_Inertial_SLAM_Data_10.png)
 
 ## How to Run "Visual-Inertial SLAM"?
 1.) Open up the "main.py".
