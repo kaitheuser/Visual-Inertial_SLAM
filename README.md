@@ -4,6 +4,7 @@ Visual-inertial simultaneous localization and mapping (SLAM) is implemented to l
 
 ## IMU Localization via the EKF Prediction Results:
 ![Data 03.npz](.Results/IMU_Localization_via_EKF_Prediction_Data_03.png)
+
 ![Data 10.npz](.Results/IMU_Localization_via_EKF_Prediction_Data_10.png)
 
 ## Landmark Mapping via the EKF Update Results:
